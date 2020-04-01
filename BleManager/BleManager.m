@@ -1,9 +1,8 @@
 //
 //  BleManager.m
-//  HydraulicSystem
 //
 //  Created by larva on 2020/2/28.
-//  Copyright © 2020 transcosmos. All rights reserved.
+//  Copyright © 2020 larva. All rights reserved.
 //
 
 #import "BleManager.h"
